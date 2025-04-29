@@ -62,3 +62,31 @@ I enjoy turning business problems into reliable technical solutions.
 - Understanding Linux, servers, and deployment
 - Learning scalable architecture with .NET
 - Collaborating on tech projects and startups
+
+---
+
+## 🏆 Custom Achievements
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-Code%20Addict-orange?style=flat-square&logo=codeforces&logoColor=white"/>  
+    <br/><sub>Writes code before breakfast</sub></td>
+    
+    <td><img src="https://img.shields.io/badge/-Open%20Source%20Supporter-brightgreen?style=flat-square&logo=github&logoColor=white"/>
+    <br/><sub>Actively contributes to open source</sub></td>
+    
+    <td><img src="https://img.shields.io/badge/-Midnight%20Committer-purple?style=flat-square&logo=github&logoColor=white"/>
+    <br/><sub>Pushes code after 2 AM</sub></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-Terminal%20Warrior-black?style=flat-square&logo=linux&logoColor=white"/>  
+    <br/><sub>Comfortable in the Linux shell</sub></td>
+    
+    <td><img src="https://img.shields.io/badge/-Bug%20Squasher-red?style=flat-square&logo=bugcrowd&logoColor=white"/>
+    <br/><sub>Fixes bugs like a ninja</sub></td>
+    
+    <td><img src="https://img.shields.io/badge/-Stack%20Overflow%20Lurker-yellow?style=flat-square&logo=stackoverflow&logoColor=white"/>
+    <br/><sub>Finds magic in Stack Overflow</sub></td>
+  </tr>
+</table>
+
