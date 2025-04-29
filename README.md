@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=180&section=header&text=Amirhossein%20Parvan&fontSize=30&fontColor=ffffff)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=180&section=header&text=Amirhossein%20Peyravan&fontSize=30&fontColor=ffffff)
 
 ## 👨‍💻 About Me
 
