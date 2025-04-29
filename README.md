@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Amirhossein Parvan**, a backend developer passionate about building powerful web applications.  
+Hi! I'm **Amirhossein Peyravan**, a backend developer passionate about building powerful web applications.  
 I specialize in **Laravel** and backend architecture, with a solid foundation in system development, REST APIs, and Linux server environments.  
 Currently focusing on scalable backend development using PHP, Laravel, and Node.js.
 
