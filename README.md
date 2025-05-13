@@ -80,6 +80,7 @@ I enjoy turning business problems into reliable technical solutions.
 
 
 
+
 <p align="center">
   <sub>Writes code before breakfast — Actively contributes to open source — Pushes code after 2 AM — Comfortable in the Linux shell — Fixes bugs like a ninja — Finds magic in Stack Overflow</sub>
 </p>
