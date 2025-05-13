@@ -21,22 +21,24 @@ I enjoy turning business problems into reliable technical solutions.
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,django,postman,mysql,linux,cs,cpp,dotnet,bootstrap,nodejs,git,github,gitlab,angular,nginx,docker,kubernetes,elasticsearch,go,wordpress,archlinux,azure,aws,googlecloud&perline=10" />
 </div>
 
-
-
-
-
-
-
-
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
-  <a href="https://instagram.com/amirpeyravan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://github.com/amirpeyravan" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/amirpeyravan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/amirpeyravan" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-</p>
+<div align="center">
+  <a href="https://instagram.com/amirpeyravan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://github.com/amirpeyravan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://linkedin.com/in/amirpeyravan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://x.com/amirpeyravan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</div>
+
 
 ---
 
