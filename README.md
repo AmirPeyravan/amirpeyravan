@@ -70,13 +70,14 @@ I enjoy turning business problems into reliable technical solutions.
 ## 🏆 Custom Achievements
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Code%20Addict-orange?style=flat&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Open%20Source%20Supporter-brightgreen?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Midnight%20Committer-purple?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Terminal%20Warrior-black?style=flat&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bug%20Squasher-red?style=flat&logo=bugcrowd&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Stack%20Overflow%20Lurker-F48024?style=flat&logo=stackoverflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code%20Addict-orange?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Supporter-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Midnight%20Committer-purple?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terminal%20Warrior-black?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bug%20Squasher-red?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stack%20Overflow%20Lurker-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
 </div>
+
 
 
 
