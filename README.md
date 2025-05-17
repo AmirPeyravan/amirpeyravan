@@ -17,9 +17,9 @@ I enjoy turning business problems into reliable technical solutions.
 ---
 
 ### 🚀 Skills & Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,django,postman,mysql,linux,cs,cpp,dotnet,bootstrap,nodejs,git,github,gitlab,angular,nginx,docker,kubernetes,elasticsearch,go,archlinux,windows,aws&perline=12" alt="Skills" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,django,postman,mysql,linux,cs,cpp,dotnet,bootstrap,nodejs,git,github,gitlab,angular,nginx,docker,kubernetes,elasticsearch,go,archlinux,windows,aws,vscode&perline=12" />
+</div>
 
 
 ---
