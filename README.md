@@ -12,7 +12,7 @@
 ### 🧑‍💻 About Me
 I'm a backend developer with strong interest in building secure, scalable, and high-performance web applications.  
 Currently focused on **Laravel**, **PHP**, **RESTful APIs**, and growing my knowledge of **.NET** and **Linux servers**.  
-I enjoy turning business problems into reliable technical solutions.  
+I enjoy turning business problems into reliable technical solutions
 
 ---
 
