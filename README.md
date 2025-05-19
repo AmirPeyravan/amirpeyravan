@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=180&section=header&text=Amirhossein%20Peyravan&fontSize=30&fontColor=ffffff)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Amirhossein%20Peyravan&fontSize=30&fontColor=ffffff)
 
 <h1 align="center">Hi 👋, I'm Amirhossein</h1>
 <h3 align="center">A passionate Backend Developer and Laravel enthusiast from Iran</h3>
