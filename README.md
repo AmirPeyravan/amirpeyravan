@@ -47,8 +47,6 @@ I enjoy turning business problems into reliable technical solutions
 
 
 
----
-
 ### 📌 Focused On
 - Developing clean and modular backend code with Laravel
 - Creating modern API-driven applications
